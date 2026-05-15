@@ -5,6 +5,6 @@
   Also gives User the functionality of saving Headlines to a text file.
 </pre>
 
-<h1>Category Feature</h1>
+<h6>Category Feature</h6>
 It lets User to select the Headline category (sports, bollywood, funny).<br>
 Also let user to create its own custom category headline.
